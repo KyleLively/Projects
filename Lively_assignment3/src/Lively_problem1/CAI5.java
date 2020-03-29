@@ -380,7 +380,6 @@ public class CAI5 {
 				}	
 		}
 		}
-		}
 		System.out.printf("\nPercentage correct: %d", Percentage(Correct));
 		if(Correct >= 7) {
 			System.out.println("\nCongratulations, you are ready to go to the next level!");
@@ -392,8 +391,6 @@ public class CAI5 {
 		System.out.println("(1) = yes/ (2) = exit");
 		choice2 = sc.nextInt();
 	}
+	}
 
 }
-
-
-

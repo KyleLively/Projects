@@ -1,0 +1,3 @@
+this is the second problem of this java
+this one was a little harder
+i am just starting to learn the hash maps
